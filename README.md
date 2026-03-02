@@ -33,7 +33,6 @@ Minha missão não é apenas escrever código, mas construir soluções arquitet
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Fábio Ribeiro](https://linkedin.com/in/fabioribeiro1981/) *(Substitua este link pelo seu URL real do LinkedIn)*
-- **Workana:** [Meu Perfil Profissional](https://www.workana.com/freelancer/d73bf4d035d386b359e7f9021bb400ef) *(Este link já direciona para o seu perfil novo!)*
-
+- **LinkedIn:** [Fábio Ribeiro](https://linkedin.com/in/fabioribeiro1981/) 
+- **Workana:** [Meu Perfil Profissional](https://www.workana.com/freelancer/d73bf4d035d386b359e7f9021bb400ef) 
 💡 *"A qualidade nunca é um acidente; é sempre o resultado de uma intenção elevada, esforço sincero e execução inteligente."*
